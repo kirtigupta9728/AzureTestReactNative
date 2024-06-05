@@ -1,4 +1,4 @@
-package com.unittestpoc.newarchitecture.components;
+package com.azuretestreactnative.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

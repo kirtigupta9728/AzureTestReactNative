@@ -1,4 +1,4 @@
-package com.unittestpoc.newarchitecture;
+package com.azuretestreactnative.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.unittestpoc.BuildConfig;
-import com.unittestpoc.newarchitecture.components.MainComponentsRegistry;
-import com.unittestpoc.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.azuretestreactnative.BuildConfig;
+import com.azuretestreactnative.newarchitecture.components.MainComponentsRegistry;
+import com.azuretestreactnative.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
